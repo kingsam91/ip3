@@ -6,5 +6,16 @@ h1 {
 }
 .about-us {
   text-align: center;
-
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.services {
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 160px;
+  padding-right:160px;
+  background-image: url("../backgrounds/s_image.jpg");
 }
