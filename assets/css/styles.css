@@ -29,3 +29,6 @@ h1 {
 #design-description, #dev-description, #product-mgt-description {
   display : none;
 }
+.portfolio {
+  text-align: center;
+}

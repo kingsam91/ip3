@@ -3,4 +3,10 @@ $(document).ready(function(){
    $(".d-icon").click(function() {
      $("#design-description").toggle();
    });
+   $(".dev-icon").click(function() {
+     $("#dev-description").toggle();
+   });
+   $(".p-icon").click(function() {
+     $("#product-mgt-description").toggle();
+   });
 })
