@@ -38,3 +38,9 @@ h1 {
 #work1, #work2, #work3, #work4, #work5, #work6, #work7, #work8 {
   padding: 20px;
 }
+.contact {
+  text-align: center;
+  background-image: url("../backgrounds/c_image.jpg");
+  padding-top: 40px;
+  padding-bottom: 100px;
+}
