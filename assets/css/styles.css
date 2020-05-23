@@ -32,3 +32,9 @@ h1 {
 .portfolio {
   text-align: center;
 }
+.portfolio img {
+  width: 100%;
+}
+#work1, #work2, #work3, #work4, #work5, #work6, #work7, #work8 {
+  padding: 20px;
+}
