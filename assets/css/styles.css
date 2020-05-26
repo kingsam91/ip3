@@ -57,6 +57,9 @@ h1 {
   padding-top: 40px;
   padding-bottom: 100px;
 }
+#recieved {
+  display: none;
+}
 footer {
   text-align: center;
   padding-top: 20px;

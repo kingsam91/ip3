@@ -49,4 +49,14 @@ $(document).ready(function() {
   }, function() {
     $(this).css("background-color", "white");
   });
+  $("#formContact").submit(function(event) {
+    var nameInput = $("input#name").val();
+    var emailInput = $("input#email").val();
+    $("#name").text(nameInput);
+    $("#email").text(emailInput);
+
+    $("#recieved").show();
+
+    event.preventDefault();
+  });
 })
